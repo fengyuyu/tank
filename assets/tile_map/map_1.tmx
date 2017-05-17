@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="26" height="26" tilewidth="30" tileheight="30">
+ <tileset firstgid="1" name="steel" tilewidth="30" tileheight="30">
+  <image source="steels.gif" width="60" height="60"/>
+ </tileset>
+ <tileset firstgid="5" name="wall" tilewidth="30" tileheight="30">
+  <image source="walls.gif" width="60" height="60"/>
+ </tileset>
+ <tileset firstgid="9" name="water" tilewidth="30" tileheight="30">
+  <image source="water.gif" width="60" height="60"/>
+ </tileset>
+ <tileset firstgid="13" name="grass" tilewidth="30" tileheight="30">
+  <image source="grass.gif" width="60" height="60"/>
+ </tileset>
+ <tileset firstgid="17" name="symbol" tilewidth="60" tileheight="45">
+  <image source="symbol.gif" width="60" height="45"/>
+ </tileset>
+ <layer name="symbol" width="26" height="26">
+  <data encoding="base64" compression="zlib">
+   eJztyzEBAAAMAiAr2L+sHbYXfhIAAPjr8Q0OSAAS
+  </data>
+ </layer>
+ <layer name="wall" width="26" height="26">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMApGwSgYBSDACsRsWGhqA3Yg5sBCUxugu5/W/sHFJwQAe6AAgw==
+  </data>
+ </layer>
+ <layer name="steel" width="26" height="26">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgF9AaMeDATmfqwYWYcmJA9uPThwyw4zMEmPgpGwSgYBaNgFIyCUYAMAB1NAF0=
+  </data>
+ </layer>
+ <layer name="water" width="26" height="26" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20MH6AAAOBnCpAAAQ==
+  </data>
+ </layer>
+ <layer name="grass" width="26" height="26" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20MH6AAAOBnCpAAAQ==
+  </data>
+ </layer>
+</map>

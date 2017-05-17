@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "d78d591b-b3cc-47be-9c9c-8c93b688209b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "tankmissile": {
+      "ver": "1.0.3",
+      "uuid": "0b29910f-ad97-48d6-b88c-1f208c7f4105",
+      "rawTextureUuid": "d78d591b-b3cc-47be-9c9c-8c93b688209b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 15,
+      "height": 15,
+      "rawWidth": 17,
+      "rawHeight": 17,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
